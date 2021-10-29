@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_note_here">Type note here..</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_url">Add Url</string>
+    <string name="add_image">Add image</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure_want_to_delete_this_note">Are you sure want to delete this note?</string>
+    <string name="random_color">Random Color</string>
+    <string name="set">SET</string>
+    <string name="setting">Setting</string>
+    <string name="auto_save_to_cloud">Auto Save to Cloud</string>
+    <string name="account">Account</string>
+    <string name="all_notes_will_be_saved_in_the_phone_memory_if_you_need_to_save_them_on_the_server_please_log_in_with_your_google_account">All notes will be saved in the phone memory. If you need to save them on the server, please log in with your Google account .</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_with_google_account">Sign in with Google account</string>
+    <string name="this_note_was_not_stored_in_cloud">This note was not stored in cloud.</string>
+    <string name="save_in_cloud">Save in Cloud</string>
+    <string name="upload_to_cloud">Upload to cloud</string>
+</resources>
